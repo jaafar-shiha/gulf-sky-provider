@@ -132,10 +132,6 @@ lib/
 flutter gen-l10n
 ```
 
-## Screenshots
-
-*Add screenshots of your app here*
-
 ## API Endpoints
 
 The app communicates with a backend API for:
